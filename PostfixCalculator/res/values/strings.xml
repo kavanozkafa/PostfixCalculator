@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">PostfixCalculator</string>
+    <string name="sonuc">Sonuc</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="infix" translatable="false">İnfix</string>
+    <string name="postfix" translatable="false">Postfix</string>
+</resources>
